@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Bowling
+2. Chocolate
+3. Singing
